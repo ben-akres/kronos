@@ -74,3 +74,4 @@ venv.bak/
 temp/
 tmp/
 .python-version
+strategy_eval/outputs/
